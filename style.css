@@ -126,7 +126,7 @@ a:hover, a:active {
     padding: 12px 0;
     font-size: 30px;
     font-weight: 500;
-    border-bottom: 1px solid #6f42c1;
+    border-bottom: 1px solid #ebebeb;
 }
 
 .main-menu li:nth-last-of-type(1) {
@@ -160,7 +160,7 @@ a:hover, a:active {
 }
 
 .social-profiles ul li a {
-    color: #191919;
+    color: #6f42c1;
     transition: all 0.35s;
 }
 
@@ -257,7 +257,7 @@ a:hover, a:active {
     }
 
     .site-navigation {
-        background: #f7f7f7;
+        background: #6f42c1;
     }
 
     .site-navigation.show {
@@ -265,7 +265,7 @@ a:hover, a:active {
     }
 
     .site-header {
-        background: #fff;
+        background: #6f42c1;
     }
 
     .site-header.no-shadow {
