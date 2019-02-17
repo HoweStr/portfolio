@@ -126,7 +126,7 @@ a:hover, a:active {
     padding: 12px 0;
     font-size: 30px;
     font-weight: 500;
-    border-bottom: 1px solid #ebebeb;
+    border-bottom: 1px solid #6f42c1;
 }
 
 .main-menu li:nth-last-of-type(1) {
@@ -180,7 +180,7 @@ a:hover, a:active {
         z-index: 999;
         width: 100%;
         padding: 15px 30px;
-        background: #fff;
+        background: #6f42c1;
         box-shadow: 0 12px 24px rgba(0,0,0,.09);
     }
 
