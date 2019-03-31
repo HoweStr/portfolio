@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Work+Sans:300,400,500,600,700');
 
 body {
-    color: #191919;
+    color: #ffffff;
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -126,7 +126,7 @@ a:hover, a:active {
     padding: 12px 0;
     font-size: 30px;
     font-weight: 500;
-    border-bottom: 1px solid #ebebeb;
+    border-bottom: 1px solid #da1e1e;
 }
 
 .main-menu li:nth-last-of-type(1) {
@@ -135,14 +135,14 @@ a:hover, a:active {
 
 .main-menu li a {
     display: block;
-    color: #a6a6a6;
+    color: #ffffff;
     text-decoration: none;
     transition: all 0.35s;
 }
 
 .main-menu li a:hover,
 .main-menu li.current-menu-item a {
-    color: #f0437e;
+    color: #99ebff;
 }
 
 /*
@@ -160,12 +160,12 @@ a:hover, a:active {
 }
 
 .social-profiles ul li a {
-    color: #6f42c1;
+    color: #9fcddb;
     transition: all 0.35s;
 }
 
 .social-profiles ul li a:hover {
-    color: #f0437e;
+    color: #99ebff;
 }
 
 .nav-bar-sep {
@@ -215,7 +215,7 @@ a:hover, a:active {
 
     .main-menu li:hover::after,
     .main-menu li.current-menu-item::after {
-        color: #f0437e;
+        color: #74faff;
     }
 
     .site-navigation {
@@ -257,7 +257,7 @@ a:hover, a:active {
     }
 
     .site-navigation {
-        background: #6f42c1;
+        background: #000000;
     }
 
     .site-navigation.show {
@@ -265,7 +265,7 @@ a:hover, a:active {
     }
 
     .site-header {
-        background: #6f42c1;
+        background: #000000;
     }
 
     .site-header.no-shadow {
@@ -316,38 +316,11 @@ a:hover, a:active {
 /*--------------------------------------------------------------
 # Scroll Down
 --------------------------------------------------------------*/
-.scroll-down {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    z-index: 99;
-    width: 120px;
-    height: 100px;
-    margin-left: -20px;
-    cursor: pointer;
-}
 
-.arrow-down {
-    width: 32px;
-    height: 32px;
-    margin: 0 auto;
-    border-radius: 50%;
-    background: #fff;
-}
-
-.scroll-text {
-    margin-top: 5px;
-    margin-bottom: 15px;
-    font-size: 14px;
-    font-weight: 600;
-}
 
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
-.portfolio-page .scroll-down {
-    margin-left: -60px;
-}
 
 .portfolio-content {
     position: relative;
