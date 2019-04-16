@@ -1,11 +1,13 @@
 # Howie Strang's Portfolio
 - 2019
 
-![]()
+![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/mobile.PNG)
 
 ![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/bedroom.jpg)
 
 - http://webpagetest.org/result/190416_NF_371bb0914a3d59f0e4a3b068aba2b639/
+
+- https://validator.w3.org/nu/?doc=https%3A%2F%2Fhowestr.github.io%2Fportfolio%2F
 
 https://www.linkedin.com/in/phil-howie-strang/
 
@@ -17,11 +19,7 @@ https://www.linkedin.com/in/phil-howie-strang/
 - https://colorlib.com/wp/template/po-portfolio/
 
 ### Images
-- any images you've used...
-- https://pixabay.com/en/sheep-curious-look-farm-animal-1822137/
-License: Free for commercial use
-No attribution required Ref: https://pixabay.com/en/service/license/
-
+-![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/artlowpoly20.jpg)
 
 ### Tutorials
 - https://www.youtube.com/watch?v=1kpXcQddXZU&t=346s - 3DS Max lighting tutorial
