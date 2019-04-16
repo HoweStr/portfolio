@@ -1,9 +1,14 @@
 # Howie Strang's Portfolio
 - 2019
 
-![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/mobile.PNG)
+- Proofread by
 
-![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/bedroom.jpg)
+- https://howestr.github.io/portfolio/
+- https://howestr.github.io/portfolio/portfolio.html
+- https://howestr.github.io/portfolio/illustration.html
+- https://howestr.github.io/portfolio/threed.html
+- https://howestr.github.io/portfolio/about.html
+- https://howestr.github.io/portfolio/contact.html
 
 - http://webpagetest.org/result/190416_NF_371bb0914a3d59f0e4a3b068aba2b639/
 
@@ -19,7 +24,15 @@ https://www.linkedin.com/in/phil-howie-strang/
 - https://colorlib.com/wp/template/po-portfolio/
 
 ### Images
+
+![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/mobile.PNG)
+
 -![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/artlowpoly20.jpg)
+
+![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/bedroom.jpg)
+
+![](https://raw.githubusercontent.com/HoweStr/portfolio/master/images/strang_a4_robotpose1.jpg)
+
 
 ### Tutorials
 - https://www.youtube.com/watch?v=1kpXcQddXZU&t=346s - 3DS Max lighting tutorial
