@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Work+Sans:300,400,500,600,700');
 
 body {
-    background-color: #ffffff;
+    background-color: #000000;
     font-family: 'Work Sans', sans-serif;
     padding-left: 50px;
     padding-right: 50px;
@@ -185,7 +185,6 @@ a:hover, a:active {
         width: 100%;
         padding: 15px 30px;
         background: #000000;
-        box-shadow: 0 12px 24px rgba(0,0,0,.09);
     }
 
     .site-header,
@@ -193,6 +192,7 @@ a:hover, a:active {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        box-shadow: 0 12px 24px rgba(255,255,255,0);
     }
 
     .hamburger-menu {
@@ -416,14 +416,14 @@ a:hover, a:active {
 .breadcrumbs {
     padding: 48px 0;
     margin: 0;
-    color: #000000;
+    color: #ffffff;
     list-style: none;
     font-family: 'Poppins', sans-serif;
 }
 
 .breadcrumbs li {
     position: relative;
-    color: #000000;
+    color: #ffffff;
     padding: 0 12px;
 }
 
@@ -445,7 +445,7 @@ a:hover, a:active {
 }
 
 .breadcrumbs li a {
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -779,7 +779,7 @@ a:hover, a:active {
 .single-page .entry-header .post-meta a {
     display: inline-block;
     margin-right: 6px;
-    color: #f0437e;
+    color: #ffffff;
 }
 
 .single-post .content-area h1,
@@ -787,26 +787,14 @@ a:hover, a:active {
     margin-top: 10px;
     font-size: 2.25rem;
     font-weight: 400;
+    color: #ffffff;
 }
 
-.single-post .entry-header .byline,
-.single-page .entry-header .byline {
-    display: block;
-    margin-top: 14px;
-    margin-bottom: 24px;
-    font-size: 0.875rem;
-    color: #bfbfbf;
-}
-
-.single-post .entry-header .byline .author a,
-.single-page .entry-header .byline .author a {
-    color: #191919;
-}
 
 .single-post .content-area .entry-content p,
 .single-page .content-area .entry-content p {
     margin-bottom: 0.75rem;
-    color: #000000;
+    color: #ffffff;
 }
 
 /*
