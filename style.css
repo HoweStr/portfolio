@@ -85,6 +85,7 @@ a:hover, a:active {
     text-align: center;
     cursor: pointer;
     transition: all 0.5s;
+    padding-left: 50px;
 }
 
 .hamburger-menu.close .menu-icon {
@@ -414,6 +415,7 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .breadcrumbs {
     padding: 48px 0;
+    padding-left: 50px;
     margin: 0;
     color: #ffffff;
     list-style: none;

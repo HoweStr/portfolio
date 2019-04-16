@@ -1,6 +1,6 @@
 # portfolio
 - hello world
-/Users/imedia/Documents/portfolio/images/strang_a4_robotpose1.jpg
+
 https://www.linkedin.com/in/phil-howie-strang/
 
 https://colorlib.com/wp/template/po-portfolio/
