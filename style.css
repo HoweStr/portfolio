@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Work+Sans:300,400,500,600,700');
 
 body {
-    color: #ffffff;
+    background-color: #000000;
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -126,7 +126,7 @@ a:hover, a:active {
     padding: 12px 0;
     font-size: 30px;
     font-weight: 500;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #000000;
 }
 
 .main-menu li:nth-last-of-type(1) {
@@ -160,16 +160,17 @@ a:hover, a:active {
 }
 
 .social-profiles ul li a {
-    color: #9fcddb;
+    color: #50dcff;
     transition: all 0.35s;
 }
 
 .social-profiles ul li a:hover {
-    color: #99ebff;
+    color: #c7f4ff;
 }
 
 .nav-bar-sep {
     height: 78px;
+  
 }
 
 @media screen and (max-width: 992px) {
@@ -352,7 +353,7 @@ a:hover, a:active {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(211, 211, 211, 0.9);
+    background: rgba(255, 255, 255, 0.9);
     font-family: 'Poppins', sans-serif;
     text-align: center;
     visibility: hidden;
@@ -377,7 +378,7 @@ a:hover, a:active {
 }
 
 .portfolio-content h3 a {
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -393,7 +394,7 @@ a:hover, a:active {
 
 .portfolio-content li a {
     font-size: 0.875rem;
-    color: #ffffff;
+    color: #000000;
 }
 
 @media screen and (min-width: 768px) {
@@ -412,14 +413,14 @@ a:hover, a:active {
 .breadcrumbs {
     padding: 48px 0;
     margin: 0;
-    color: #a6a6a6;
+    color: #000000;
     list-style: none;
     font-family: 'Poppins', sans-serif;
 }
 
 .breadcrumbs li {
     position: relative;
-    color: #a6a6a6;
+    color: #000000;
     padding: 0 12px;
 }
 
@@ -441,7 +442,7 @@ a:hover, a:active {
 }
 
 .breadcrumbs li a {
-    color: #191919;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -467,7 +468,7 @@ a:hover, a:active {
     margin-top: 20px;
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
-    color: #595959;
+    color: #ffffff;
 }
 
 /*
@@ -549,7 +550,7 @@ a:hover, a:active {
 
 .single-portfolio .posted-tags span,
 .single-portfolio .entry-meta a {
-    color: #bfbfbf;
+    color: #ffffff;
 }
 
 /*
@@ -802,7 +803,7 @@ a:hover, a:active {
 .single-post .content-area .entry-content p,
 .single-page .content-area .entry-content p {
     margin-bottom: 0.75rem;
-    color: #595959;
+    color: #000000;
 }
 
 /*
