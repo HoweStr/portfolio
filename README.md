@@ -1,7 +1,7 @@
 # Howie Strang's Portfolio
 - 2019
 
-- Proofread by
+- Proofread by Rose Skead, 
 
 - https://howestr.github.io/portfolio/
 - https://howestr.github.io/portfolio/portfolio.html
