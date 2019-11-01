@@ -219,7 +219,7 @@ a:hover, a:active {
 
     .main-menu li:hover::after,
     .main-menu li.current-menu-item::after {
-        color: #74faff;
+        color: #ff000;
     }
 
     .site-navigation {
