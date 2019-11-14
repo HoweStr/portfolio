@@ -64,6 +64,7 @@ a:hover, a:active {
 --------------------------------*/
 .site-branding {
     transition: all .5s;
+    color: #ffffff;
 }
 
 .site-title {
@@ -219,7 +220,7 @@ a:hover, a:active {
 
     .main-menu li:hover::after,
     .main-menu li.current-menu-item::after {
-        color: #ff000;
+        color: #ff0000;
     }
 
     .site-navigation {
@@ -232,7 +233,6 @@ a:hover, a:active {
         background: rgb(0, 0, 0);
         box-shadow: 0 12px 24px rgba(0,0,0,.09);
         visibility: hidden;
-        opacity: 0;
         transition: all 0.35s;
     }
 
@@ -261,7 +261,7 @@ a:hover, a:active {
     }
 
     .site-navigation {
-        background: #0f0f0f;
+        background:#005368;
     }
 
     .site-navigation.show {
@@ -269,7 +269,7 @@ a:hover, a:active {
     }
 
     .site-header {
-        background: #000000;
+        background: #00536;
     }
 
     .site-header.no-shadow {
@@ -1085,8 +1085,7 @@ input[type=text], select, textarea {
   /* Add a background color and some padding around the form */
   .container {
     border-radius: 5px;
-    background-color: #383838;
+    
     padding: 20px;
-    color: #ffffff;
   }
 
